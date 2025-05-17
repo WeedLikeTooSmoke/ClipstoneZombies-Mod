@@ -1,6 +1,6 @@
 echo off
 set GAME_FOLDER=C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops II
-set OAT_BASE=C:\OAT
+set OAT_BASE=C:\Users\decla\OneDrive\Desktop\Projects\ClipstoneZombies-Mod\OAT
 set MOD_BASE=%cd%
 set MOD_NAME=zm_clipstone
 "%OAT_BASE%\Linker.exe" ^
