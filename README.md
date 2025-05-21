@@ -4,4 +4,5 @@
 
 > [!TIP]
 > Application Repo: https://github.com/WeedLikeTooSmoke/ClipstoneZombies<br>
-> Scripts Repo: https://github.com/WeedLikeTooSmoke/ClipstoneZombies-Scripts
+> Scripts Repo: https://github.com/WeedLikeTooSmoke/ClipstoneZombies-Scripts<br>
+> Bot Repo: https://github.com/WeedLikeTooSmoke/ClipstoneZombies-Bot
